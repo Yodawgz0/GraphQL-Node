@@ -8,6 +8,7 @@ export const typeDefs = `#graphql
         platform: [String!]!
         createdAt: String!
         updatedAt: String!
+        reviews: [Review!]
     }
     type Review{
         id: ID!
@@ -16,13 +17,14 @@ export const typeDefs = `#graphql
         gameId: ID!
         authorId: ID!
         game: Game!
+        author: Author!
         createdAt: String!
         updatedAt: String!
     }
     type Author{
         id: ID!
         name: String!
-        reviews: [Review!]!
+        reviews: [Review!]
         verfied: Boolean!
     }
     type Query{
