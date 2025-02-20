@@ -1,6 +1,6 @@
 let games = [
   {
-    id: 1,
+    id: "1",
     title: "The Witcher 3: Wild Hunt",
     description:
       "The Witcher 3: Wild Hunt is a third-person action RPG with a focus on combat and exploration.",
@@ -11,7 +11,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 2,
+    id: "2",
     title: "Red Dead Redemption 2",
     description:
       "An epic tale of life in America's unforgiving heartland, featuring a vast and atmospheric world.",
@@ -22,7 +22,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 3,
+    id: "3",
     title: "God of War Ragnarök",
     description:
       "Embark on an epic and heartfelt journey as Kratos and Atreus struggle with holding on and letting go.",
@@ -33,7 +33,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 4,
+    id: "4",
     title: "Elden Ring",
     description:
       "An action RPG set in a fantasy world created by FromSoftware and George R. R. Martin.",
@@ -44,7 +44,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 5,
+    id: "5",
     title: "Cyberpunk 2077",
     description:
       "An open-world action-adventure story set in Night City, a megalopolis obsessed with power and glamour.",
@@ -55,7 +55,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 6,
+    id: "6",
     title: "The Legend of Zelda: Tears of the Kingdom",
     description:
       "Explore the vast land and skies of Hyrule in Nintendo's acclaimed action-adventure sequel.",
@@ -66,7 +66,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 7,
+    id: "7",
     title: "Final Fantasy XVI",
     description:
       "A dark fantasy RPG featuring intense action combat and an epic story of revenge and redemption.",
@@ -77,7 +77,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 8,
+    id: "8",
     title: "Starfield",
     description:
       "Bethesda's epic science fiction RPG set among the stars, featuring space exploration and adventure.",
@@ -88,7 +88,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 9,
+    id: "9",
     title: "Marvel's Spider-Man 2",
     description:
       "Swing through New York City as Peter Parker and Miles Morales in this superhero adventure.",
@@ -99,7 +99,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 10,
+    id: "10",
     title: "Baldur's Gate 3",
     description:
       "A next-generation RPG set in the Dungeons & Dragons universe with turn-based combat.",
@@ -110,7 +110,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 11,
+    id: "11",
     title: "Resident Evil 4 Remake",
     description:
       "A complete remake of the survival horror classic with modern graphics and gameplay mechanics.",
@@ -121,7 +121,7 @@ let games = [
     updatedAt: new Date(),
   },
   {
-    id: 12,
+    id: "12",
     title: "Horizon Forbidden West",
     description:
       "Continue Aloy's journey in a majestic but dangerous frontier that conceals mysterious new threats.",
