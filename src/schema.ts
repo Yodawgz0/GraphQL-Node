@@ -14,6 +14,7 @@ export const typeDefs = `#graphql
         rating: Int!
         content: String!
         gameId: ID!
+        authorId: ID!
         game: Game!
         createdAt: String!
         updatedAt: String!
